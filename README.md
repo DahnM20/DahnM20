@@ -1,16 +1,32 @@
-### Hi there 👋
+## Hello there 👋
+*   💻 Software engineer with 3+ years of professional experience.
+*   🌱 I'm currently learning Solidity (with [these courses](https://www.youtube.com/watch?v=umepbfKp5rI&list=PL4Rj_WH6yLgWe7TxankiqkrkVKXIwOP42&pp=iAQB) by Patrick Collins).
+*   ✨Currently working on my free time on [AI Flow](https://github.com/DahnM20/ai-flow).
+*   🙌 Looking for opportunities in the Web3 space.
 
-<!--
-**DahnM20/DahnM20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align='center'>
+ 📬 You can reach me on : </p>
+<p align='center'>
+   <a href="https://twitter.com/DahnM20">
+       <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
+   </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technology Stack
+*   Main languages : Java, Javascript, Typescript
+*   Databases : MySQL, PostgreSQL, MongoDB
+*   DevOps tools : Docker, Kubernetes, Jenkins, GitLab CI/CD
+*   Cloud : AWS
+*   Web3 : Solidity, Foundry, ethers.js
+
+
+<p align='center'>
+   <a href="https://github.com/DahnM20/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DahnM20&layout=compact"/></a>
+</p>
+
+## 💡 My projects
+*   [AI-Flow](https://github.com/DahnM20/ai-flow) - An application that empowers you to seamlessly connect multiple AI models together, specifically leveraging the capabilities of ChatGPT. 
+
+*   [Crypto Monitor](https://github.com/DahnM20/crypto-monitor) - A project I developed a few years ago while learning Node.js. It allows you to monitor a wallet simply and displays the latest news and available IDOs in the blockchain space.
