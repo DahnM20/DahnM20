@@ -2,7 +2,7 @@
 *   💻 Software engineer with 3+ years of professional experience.
 *   🌱 I'm currently learning Solidity (with [these courses](https://www.youtube.com/watch?v=umepbfKp5rI&list=PL4Rj_WH6yLgWe7TxankiqkrkVKXIwOP42&pp=iAQB) by Patrick Collins).
 *   ✨Currently working on my free time on [AI Flow](https://github.com/DahnM20/ai-flow).
-*   🙌 Looking for opportunities in the Web3 space.
+*   🙌 Looking for opportunities.
 
 
 <p align='center'>
