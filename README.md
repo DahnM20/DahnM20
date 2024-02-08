@@ -28,4 +28,4 @@
 ## 💡 My projects
 *   [AI-Flow](https://github.com/DahnM20/ai-flow) - An application that empowers you to seamlessly connect multiple AI models together, specifically leveraging the capabilities of ChatGPT. 
 
-*   [Crypto Monitor](https://github.com/DahnM20/crypto-monitor) - A project I developed a few years ago while learning Node.js. It allows you to monitor a wallet simply and displays the latest news and available IDOs in the blockchain space.
+*   [AI-Flow Landing Page](https://ai-flow.net/) - The landing page showcasing some of the app's features
